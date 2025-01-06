@@ -10,7 +10,7 @@ body {
   font-family: "Red Hat Text", sans-serif;
   text-transform: uppercase;
   background-color: hsl(235, 16%, 14%);
-  background-image: url(/images/pattern-hills.svg);
+  background-image: url(images/pattern-hills.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
